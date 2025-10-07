@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hey, moi c’est Camille
 
-<!--
-**camille0601/camille0601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Développeuse en alternance — orientée Back-End (avec une touche de Front quand il faut).
+🎓 Étudiante en Bachelor Développeur Web à MyDigitalSchool Angers
+🏢 En alternance à l’ESPL d’Angers — au cœur d’une équipe tech dynamique et collaborative.
+##
+🧠 Curieuse, rigoureuse et motivée à comprendre en profondeur ce que je fais.
+⚙️ J’aime concevoir des outils utiles, clairs et efficaces.
+🌱 Objectif : devenir Full Stack tout en gardant du sens dans ce que je construis.
+##
+**🛠️ Stack & outils**
 
-Here are some ideas to get you started:
+💬 Langages : Java, JavaScript, PHP, HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧩 Frameworks : React
+
+🗄️ Base de données : SQL
+
+🧰 Outils : Git, GitHub, VS Code, IntelliJ
+##
